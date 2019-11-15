@@ -1,0 +1,22 @@
+h1 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'sans-serif';
+text-align: center;
+}
+
+.s1 {
+    background: url('suncano_nakon_magle_selo.jpg');
+    background-size: cover;
+}
+
+.s2 {
+    background: url('http://www.poljomagazin.com/wp-content/uploads/2019/04/sunrise-1892493_960_720.jpg');
+    background-size: cover;
+}
+.s3 {
+    background: url('https://www.dnevne.rs/wp-content/uploads/2017/06/sun-2297961_960_720.jpg');
+    background-size: cover;
+}
+.s4 {
+    background: url('https://drsamuelbledsoe.com/wp-content/uploads/future.jpg');
+    background-size: cover;
+}
